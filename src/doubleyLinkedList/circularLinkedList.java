@@ -1,4 +1,4 @@
-package CircularLinkedList;
+package doubleyLinkedList;
 
 import singleyLinkedList.Node;
 

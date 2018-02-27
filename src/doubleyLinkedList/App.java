@@ -1,4 +1,4 @@
-package CircularLinkedList;
+package doubleyLinkedList;
 
 public class App {
 
